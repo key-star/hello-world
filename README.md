@@ -7,4 +7,9 @@ I am here!
 
 He is here!
 
-Hello！
+<<<<<<< HEAD
+=======
+Hi！
+
+Hello!
+>>>>>>> second-edits
